@@ -1,0 +1,16 @@
+C:\Users\Utente\Desktop\CirriVettore1\CirriVettore1\bin\Debug\net5.0\CirriVettore1.exe
+C:\Users\Utente\Desktop\CirriVettore1\CirriVettore1\bin\Debug\net5.0\CirriVettore1.deps.json
+C:\Users\Utente\Desktop\CirriVettore1\CirriVettore1\bin\Debug\net5.0\CirriVettore1.runtimeconfig.json
+C:\Users\Utente\Desktop\CirriVettore1\CirriVettore1\bin\Debug\net5.0\CirriVettore1.runtimeconfig.dev.json
+C:\Users\Utente\Desktop\CirriVettore1\CirriVettore1\bin\Debug\net5.0\CirriVettore1.dll
+C:\Users\Utente\Desktop\CirriVettore1\CirriVettore1\bin\Debug\net5.0\ref\CirriVettore1.dll
+C:\Users\Utente\Desktop\CirriVettore1\CirriVettore1\bin\Debug\net5.0\CirriVettore1.pdb
+C:\Users\Utente\Desktop\CirriVettore1\CirriVettore1\obj\Debug\net5.0\CirriVettore1.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\CirriVettore1\CirriVettore1\obj\Debug\net5.0\CirriVettore1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\CirriVettore1\CirriVettore1\obj\Debug\net5.0\CirriVettore1.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\CirriVettore1\CirriVettore1\obj\Debug\net5.0\CirriVettore1.AssemblyInfo.cs
+C:\Users\Utente\Desktop\CirriVettore1\CirriVettore1\obj\Debug\net5.0\CirriVettore1.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\CirriVettore1\CirriVettore1\obj\Debug\net5.0\CirriVettore1.dll
+C:\Users\Utente\Desktop\CirriVettore1\CirriVettore1\obj\Debug\net5.0\ref\CirriVettore1.dll
+C:\Users\Utente\Desktop\CirriVettore1\CirriVettore1\obj\Debug\net5.0\CirriVettore1.pdb
+C:\Users\Utente\Desktop\CirriVettore1\CirriVettore1\obj\Debug\net5.0\CirriVettore1.genruntimeconfig.cache

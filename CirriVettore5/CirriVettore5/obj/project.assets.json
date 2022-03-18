@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Utente\\Desktop\\3di-2022-esercizivettori-rebbbbb\\CirriVettore1\\CirriVettore1\\CirriVettore1.csproj",
-      "projectName": "CirriVettore1",
-      "projectPath": "C:\\Users\\Utente\\Desktop\\3di-2022-esercizivettori-rebbbbb\\CirriVettore1\\CirriVettore1\\CirriVettore1.csproj",
+      "projectUniqueName": "C:\\Users\\Utente\\Desktop\\3di-2022-esercizivettori-rebbbbb\\CirriVettore5\\CirriVettore5\\CirriVettore5.csproj",
+      "projectName": "CirriVettore5",
+      "projectPath": "C:\\Users\\Utente\\Desktop\\3di-2022-esercizivettori-rebbbbb\\CirriVettore5\\CirriVettore5\\CirriVettore5.csproj",
       "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Utente\\Desktop\\3di-2022-esercizivettori-rebbbbb\\CirriVettore1\\CirriVettore1\\obj\\",
+      "outputPath": "C:\\Users\\Utente\\Desktop\\3di-2022-esercizivettori-rebbbbb\\CirriVettore5\\CirriVettore5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",

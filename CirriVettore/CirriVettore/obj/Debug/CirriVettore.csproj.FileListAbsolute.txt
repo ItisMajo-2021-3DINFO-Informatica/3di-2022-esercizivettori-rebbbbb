@@ -1,0 +1,7 @@
+C:\Users\UTENTE\Desktop\CirriVettore\CirriVettore\bin\Debug\CirriVettore.exe.config
+C:\Users\UTENTE\Desktop\CirriVettore\CirriVettore\bin\Debug\CirriVettore.exe
+C:\Users\UTENTE\Desktop\CirriVettore\CirriVettore\bin\Debug\CirriVettore.pdb
+C:\Users\UTENTE\Desktop\CirriVettore\CirriVettore\obj\Debug\CirriVettore.csprojResolveAssemblyReference.cache
+C:\Users\UTENTE\Desktop\CirriVettore\CirriVettore\obj\Debug\CirriVettore.csproj.CoreCompileInputs.cache
+C:\Users\UTENTE\Desktop\CirriVettore\CirriVettore\obj\Debug\CirriVettore.exe
+C:\Users\UTENTE\Desktop\CirriVettore\CirriVettore\obj\Debug\CirriVettore.pdb

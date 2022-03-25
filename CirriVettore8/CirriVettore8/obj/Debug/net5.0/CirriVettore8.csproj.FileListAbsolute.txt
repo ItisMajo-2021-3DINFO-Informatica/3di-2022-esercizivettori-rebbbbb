@@ -1,0 +1,16 @@
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-rebbbbb\CirriVettore8\CirriVettore8\bin\Debug\net5.0\CirriVettore8.exe
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-rebbbbb\CirriVettore8\CirriVettore8\bin\Debug\net5.0\CirriVettore8.deps.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-rebbbbb\CirriVettore8\CirriVettore8\bin\Debug\net5.0\CirriVettore8.runtimeconfig.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-rebbbbb\CirriVettore8\CirriVettore8\bin\Debug\net5.0\CirriVettore8.runtimeconfig.dev.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-rebbbbb\CirriVettore8\CirriVettore8\bin\Debug\net5.0\CirriVettore8.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-rebbbbb\CirriVettore8\CirriVettore8\bin\Debug\net5.0\ref\CirriVettore8.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-rebbbbb\CirriVettore8\CirriVettore8\bin\Debug\net5.0\CirriVettore8.pdb
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-rebbbbb\CirriVettore8\CirriVettore8\obj\Debug\net5.0\CirriVettore8.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-rebbbbb\CirriVettore8\CirriVettore8\obj\Debug\net5.0\CirriVettore8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-rebbbbb\CirriVettore8\CirriVettore8\obj\Debug\net5.0\CirriVettore8.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-rebbbbb\CirriVettore8\CirriVettore8\obj\Debug\net5.0\CirriVettore8.AssemblyInfo.cs
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-rebbbbb\CirriVettore8\CirriVettore8\obj\Debug\net5.0\CirriVettore8.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-rebbbbb\CirriVettore8\CirriVettore8\obj\Debug\net5.0\CirriVettore8.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-rebbbbb\CirriVettore8\CirriVettore8\obj\Debug\net5.0\ref\CirriVettore8.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-rebbbbb\CirriVettore8\CirriVettore8\obj\Debug\net5.0\CirriVettore8.pdb
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-rebbbbb\CirriVettore8\CirriVettore8\obj\Debug\net5.0\CirriVettore8.genruntimeconfig.cache

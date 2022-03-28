@@ -12,50 +12,87 @@ namespace CirriVettore8
                - i dati inseriti
                - visualizzare la giornata in cui la squadra ha segnato più gol e il numero dei gol segnati
                - visualizzare la giornata in cui la squadra ha segnato meno gol e il numero dei gol segnati
-               - visualizzare la media dei gol segnati per giornata */
+               - visualizzare la media dei gol segnati per giornata 
+               - goal subiti */
 
             const int dimensione = 8;
             int[] goal = new int[dimensione];
+            int[] goalSubiti = new int[dimensione];
+            int max;
+            int posMax;
+            int min;
+            int posMin;
+            int somma;
+            float media;
 
-            //ciclo di caricamento del vettore
+            //ciclo di caricamento da tastiera del vettore
             for (int i = 0; i < dimensione; i++) // "i" sta per indice
             {
-                Console.Write("Goal giornata " + (i + 1) + ": ");
-                /*l'elemento del vettore di indice i: gol[i]*/
+                Console.Write("Goal giornata " + (i + 1) + ": ");  // l'elemento del vettore di indice i: goal[i]
                 goal[i] = Convert.ToInt32(Console.ReadLine());
             }
 
-            int min = 0;
-            int max = 0;
+            for (int i = 0; i < dimensione; i++) 
+            {
+                Console.Write("Goal subiti giornata " + (i + 1) + ": ");
+                goalSubiti[i] = Convert.ToInt32(Console.ReadLine());
+            }
 
             //ciclo di visualizzazione del vettore
             for (int i = 0; i < dimensione; i++) // "i" sta per indice
             {
-                //goal [0] = 3
-                //goal [1] = 5
-                Console.WriteLine($"goal[{i}] = {goal[i]}");
-
-                if (goal[i] < min)
-                {
-                    min = goal[i];
-                }
-
-                else if (goal[i] > max)
-                {
-                    max = goal[i];
-                }
+                Console.WriteLine($"goal[{i}] = {goal[i]}"); //goal [0] = 3 [...]
             }
-
-            int somma = 0;
-            decimal media = 0;
 
             for (int i = 0; i < dimensione; i++)
             {
-                somma = somma + goal[i];
-                media = somma / 8;
-
-                Console.WriteLine($"La media è: {media}");
+                Console.WriteLine($"goal subiti[{i}] = {goalSubiti[i]}");
             }
+
+            //ricerca del massimo e della sua posizione
+            max = goal[0];
+            posMax = 0;
+
+            for (int i = 1; i < dimensione; i++)
+            {
+                if (goal[i] > max)
+                {
+                    max = goal[i];
+                    posMax = i;
+                }
+            }
+
+            //ricerca del minimo e della sua posizione
+            min = goal[0];
+            posMin = 0;
+
+            for (int i = 1; i < dimensione; i++)
+            {
+                if (goal[i] < min)
+                {
+                    min = goal[i];
+                    posMin = i;
+                }
+            }
+
+            //media
+
+            for (int i = 1; i < dimensione; i++)
+            {
+                somma = somma + goal[i];
+            }
+
+            media = (float)somma / 8;
+
+            //stampa
+
+            Console.WriteLine($"il valore massimo è {max} nella giornata {posMax + 1}");
+            Console.WriteLine($"il valore massimo è {min} nella giornata {posMin + 1}");
+            Console.WriteLine($"La media dei goal è {media}");
+
+            
+            Console.WriteLine("Batti un tasto per terminare");
+            Console.ReadKey();
         }
     }
 }
